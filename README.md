@@ -1,6 +1,7 @@
 # snmpv3brutem
 # snmpv3brutem.py
 **Auteur :** Eric Mboma Kakese
+** git clone https://github.com/Eric-mboma/snmpv3brutem ** pour télécharger les fichiers
 
 **Article de blog ici :** https://applied-risk.com/resources/brute-forcing-snmpv3-authentication
 
